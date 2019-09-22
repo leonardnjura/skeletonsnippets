@@ -1,0 +1,5 @@
+BULKER.*
+.DS_Store
+.env
+*.vsix
+vsc-extension-quickstart.md

@@ -1,0 +1,8 @@
+.env
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+BULKER.*
+.DS_Store
+
